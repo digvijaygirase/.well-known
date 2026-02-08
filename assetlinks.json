@@ -1,9 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.vitalityactive.assetadvance",
-    "sha256_cert_fingerprints":
-    ["8D:52:6D:32:CE:DB:4D:2F:91:84:75:B0:91:7C:65:61:E0:AD:96:DE:35:BD:72:67:83:0F:AE:8D:EA:A1:67:7D"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vitalityactive.assetadvance",
+      "sha256_cert_fingerprints": [
+        "8D:52:6D:32:CE:DB:4D:2F:91:84:75:B0:91:7C:65:61:E0:AD:96:DE:35:BD:72:67:83:0F:AE:8D:EA:A1:67:7D",
+        "E1:00:99:84:EA:6E:FD:FA:FF:FD:40:81:C4:AA:BE:F8:4B:D8:5A:B9:A3:3B:D0:D2:E2:8E:F1:60:3F:BD:B0:FC"
+      ]
+    }
   }
-}]
+]
