@@ -14,6 +14,32 @@
             "/": "/*"
           }
         ]
+      },
+      {
+        "appIDs": [
+          "WDYWGXWGAA.com.vitalityactive.assetadvance"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "WDYWGXWGAA.com.thevitalitygroup.johnhancock"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
       }
     ]
   },
